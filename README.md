@@ -1,2 +1,2 @@
-# controle_de_estoque
-Controle de estoque LocalStorage.
+# Controle de Estoque
+Controle de estoque local para pequenos comércios.
